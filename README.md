@@ -1,9 +1,15 @@
 LAB EXPERIMENTS
+
 Name: Kartikey
+
 Roll no.: 241210054
+
 Subject: Computer Organization and Architecture
+
 Branch: CSE1
+
 Semester: 4th
+
 
 List of Experiments:-
 1) Exploring logism evolution software
