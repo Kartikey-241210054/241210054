@@ -26,8 +26,8 @@ For 8×3 Encoder:
 9. Place 3 output pins (Y0, Y1, Y2).
 10. Design the encoder using logic gates based on Boolean expressions:
 
-Y2 = D4 + D5 + D6 + D7
-Y1 = D2 + D3 + D6 + D7
+Y2 = D4 + D5 + D6 + D7;
+Y1 = D2 + D3 + D6 + D7;
 Y0 = D1 + D3 + D5 + D7
 
 11. Connect the circuit accordingly.
