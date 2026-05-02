@@ -14,7 +14,7 @@ Carry output (Cout)
 
 The logic equations for a full adder are:
 
-Sum (S) = A ⊕ B ⊕ Cin
+Sum (S) = A ⊕ B ⊕ Cin;
 Carry (Cout) = (A·B) + (B·Cin) + (A·Cin)
 
 In a 4-bit Ripple Carry Adder:
